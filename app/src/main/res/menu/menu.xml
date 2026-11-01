@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item
+        android:id="@+id/bthome"
+        android:title="البيت"
+        android:icon="@drawable/outline_add_home_24"/>
+
+    <item
+        android:id="@+id/btheart"
+        android:title="المفضلات"
+        android:icon="@drawable/outline_bookmark_heart_24"/>
+
+    <item
+        android:id="@+id/btsettings"
+        android:title="اعدادات"
+        android:icon="@drawable/outline_admin_panel_settings_24"/>
+
+</menu>
